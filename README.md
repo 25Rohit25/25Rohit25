@@ -3,6 +3,10 @@
 <h1 align="center">👋 Hey there, I'm Rohit Singh</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Loves+shipping+production-ready+systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <b>Full-Stack Developer | DevOps Engineer | Cloud & Automation Enthusiast</b>
 </p>
 
@@ -72,6 +76,54 @@ I love building systems end-to-end — from UI components and backend APIs to CI
 
 ---
 
+## 🏅 Skill Badges
+
+### 🔤 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+### ⚛️ Frontend & UI
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+### 🛠 Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+
+### 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?logo=mongodb&logoColor=white&style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+
+### 🧰 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+---
+
 ## 📂 Featured Projects
 
 - **Modern Weather Dashboard**  
@@ -87,15 +139,19 @@ I love building systems end-to-end — from UI components and backend APIs to CI
 
 ---
 
-## 📊 GitHub Activity (Alternative Working Stats)
+## 📊 GitHub Activity (Animated Style)
 
 ### 🏆 Profile Trophy
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&margin-w=10)](https://github.com/25Rohit25)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/25Rohit25)
 
 ### 📜 Profile Summary Card
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25Rohit25&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/25Rohit25/25Rohit25/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -125,4 +181,3 @@ I love building systems end-to-end — from UI components and backend APIs to CI
 <p align="center">
   ✨ <i>Engineering scalable systems, automating deployments, and shipping code that matters.</i> ✨
 </p>
-
