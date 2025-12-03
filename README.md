@@ -3,29 +3,59 @@
 <h1 align="center">👋 Hey there, I'm Rohit Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Loves+shipping+production-ready+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Building+Scalable+Production-Grade+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>Full-Stack Developer | DevOps Engineer | Cloud & Automation Enthusiast</b>
+---
+
+## 💼 Open to Opportunities
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge&logo=handshake" />
+  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Work%20Preference-Hybrid%20%7C%20Remote-orange?style=for-the-badge&logo=wifi" />
 </p>
+
+📬 _If you think I’m a good fit, let’s connect!_
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** learning and implementing modern DevOps practices to deploy applications efficiently and securely.  
-I love building systems end-to-end — from UI components and backend APIs to CI/CD pipelines and cloud deployments.
+I'm a **Full-Stack Developer** and **DevOps learner** passionate about designing scalable systems, automating deployments, and improving developer workflows.  
+I love building end-to-end apps — from UI & backend APIs to CI/CD pipelines and cloud deployments.
 
-### 🎯 What I Do
+> 🧩 _A developer’s job doesn’t end at code — it ends when the system runs flawlessly in production._
 
-- 🌐 Build full-stack web applications with **React, Node.js & Spring Boot**
-- ☁️ Deploy scalable apps on **AWS** using Docker, Kubernetes & Nginx
-- ⚙️ Automate CI/CD with **GitHub Actions & Jenkins**
-- 🧠 Follow clean code, modular design, and system architecture principles
-- 🔁 Continuously learn, improve, and refine engineering skills
+---
 
-> 🧩 _"A developer’s job doesn’t end at code — it ends when the system runs in production flawlessly."_  
+## 🛣️ Career Roadmap
+
+### 🧭 My Engineering Journey
+
+I'm actively shaping my career toward becoming a **Cloud-Native Full-Stack & DevOps Engineer**.
+
+### 📌 2025 Goals
+
+- [x] Master React, Node.js, Express & Spring Boot  
+- [x] Build and deploy full-stack applications  
+- [x] Learn CI/CD pipelines with GitHub Actions  
+- [x] Containerize apps using Docker  
+- [ ] Deploy microservices with Kubernetes  
+- [ ] Complete AWS Solution Architect learning path  
+- [ ] Implement Infrastructure as Code (Terraform)  
+- [ ] Build a production-grade CI/CD pipeline with monitoring
+
+### 🎯 Long-Term Vision
+
+Become a **Cloud-Native Engineer** skilled at:
+
+✔ Architecting distributed & scalable systems  
+✔ Automating end-to-end deployments  
+✔ Managing cloud workloads on AWS  
+✔ Following SRE & DevOps best practices  
+
+🚀 _Every commit brings me closer._
 
 ---
 
@@ -86,7 +116,7 @@ I love building systems end-to-end — from UI components and backend APIs to CI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-### ⚛️ Frontend & UI
+### ⚛️ Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
@@ -100,58 +130,40 @@ I love building systems end-to-end — from UI components and backend APIs to CI
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
-### 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?logo=mongodb&logoColor=white&style=for-the-badge)
-
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-
-### 🧰 Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 📂 Featured Projects
 
-- **Modern Weather Dashboard**  
-  _React, TypeScript, Tailwind, OpenWeather API_
+- **Modern Weather Dashboard** · _React, TypeScript, Tailwind_
+- **PDF-to-Speech Web App** · _React, Node.js, Express_
+- **Course Platform with Payments** · _React, Spring Boot, MySQL, Stripe_
 
-- **PDF-to-Speech Application**  
-  _React, Node.js, Express_
-
-- **Course Platform with Payments**  
-  _React, Spring Boot, MySQL, Stripe_
-
-> 🛠 I don’t build tutorial clones — I build practical, production-style systems.
+> 🛠 I build real, production-style software — not tutorial clones.
 
 ---
 
-## 📊 GitHub Activity (Animated Style)
+## 📊 GitHub Activity (Animated)
 
-### 🏆 Profile Trophy
+### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/25Rohit25)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&no-frame=true)](https://github.com/25Rohit25)
 
-### 📜 Profile Summary Card
+### 📜 Profile Summary
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25Rohit25&theme=tokyonight)
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/25Rohit25/25Rohit25/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/25Rohit25/25Rohit25/output/github-contribution-grid-snake.svg)
 
 ---
 
