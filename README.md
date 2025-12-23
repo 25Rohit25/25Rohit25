@@ -106,46 +106,32 @@ Become a **Cloud-Native Engineer** skilled at:
 
 ---
 
-## 🏅 Skill Badges
+## 📂 Featured Projects
 
-### 🔤 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-
-### ⚛️ Frontend
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-
-### 🛠 Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+### 🔹 RouteNavigator — Traffic Routing Engine  
+**Tech:** C++, Dijkstra’s, A* Algorithms  
+- Built a city-scale routing engine for optimal path computation  
+- Designed efficient graph data structures supporting dynamic traffic updates  
+- Reduced average route computation latency by **~40%**  
+- Handled real-time road closures and re-routing logic  
 
 ---
 
-## 📂 Featured Projects
+### 🔹 FitLife Pro — Full-Stack Fitness Analytics Platform  
+**Tech:** Java, Spring Boot, MySQL, JPA, JWT  
+- Designed scalable backend services processing thousands of activity records  
+- Implemented **JWT-based authentication** and **role-based access control**  
+- Optimized SQL queries and indexing, improving dashboard performance by **~35%**  
+- Built analytics APIs for historical trends and personalized insights  
 
-- **Modern Weather Dashboard** · _React, TypeScript, Tailwind_
-- **PDF-to-Speech Web App** · _React, Node.js, Express_
-- **Course Platform with Payments** · _React, Spring Boot, MySQL, Stripe_
+---
+
+### 🔹 Waste-No-More — Real-Time Logistics Coordination System  
+**Tech:** MongoDB, WebSockets, Event-Driven Architecture  
+- Built a real-time backend system coordinating food donations  
+- Implemented **geospatial indexing** to match donors and volunteers by proximity  
+- Designed concurrent WebSocket workflows to prevent conflicting claims  
+- Reduced coordination response time by **~50%**  
 
 > 🛠 I build real, production-style software — not tutorial clones.
 
