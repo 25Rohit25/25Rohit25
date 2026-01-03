@@ -35,7 +35,7 @@ I love building end-to-end apps — from UI & backend APIs to CI/CD pipelines an
 
 I'm actively shaping my career toward becoming a **Cloud-Native Full-Stack & DevOps Engineer**.
 
-### 📌 2025 Goals
+### 📌 2026 Goals
 
 - [x] Master React, Node.js, Express & Spring Boot  
 - [x] Build and deploy full-stack applications  
