@@ -26,7 +26,7 @@ Backend Engineer • Distributed Systems Enthusiast • Cloud & DevOps Learner
 
 ⚡ LeetCode Knight (Top 5%)
 
-🧠 Solved 500+ DSA problems
+🧠 Solved 900+ DSA problems
 
 🌱 Currently learning Kubernetes, AWS, System Design and Site Reliability Engineering
 
