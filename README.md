@@ -1,181 +1,211 @@
-<!-- Profile README for @25Rohit25 -->
+# <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 
-<h1 align="center">👋 Hey there, I'm Rohit Singh</h1>
+<h3 align="center">
+Backend Engineer • Distributed Systems Enthusiast • Cloud & DevOps Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Building+Scalable+Production-Grade+Systems" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=25Rohit25&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
-
-## 💼 Open to Opportunities
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge&logo=handshake" />
-  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/Work%20Preference-Hybrid%20%7C%20Remote-orange?style=for-the-badge&logo=wifi" />
+<p align="center">
+  <a href="https://github.com/25Rohit25">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=700&lines=Backend+Engineer;Distributed+Systems+Enthusiast;5★+CodeChef+Programmer;LeetCode+Knight+%7C+Top+5%25;Building+Production-Grade+Systems" />
+  </a>
 </p>
-
-📬 _If you think I’m a good fit, let’s connect!_
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** and **DevOps learner** passionate about designing scalable systems, automating deployments, and improving developer workflows.  
-I love building end-to-end apps — from UI & backend APIs to CI/CD pipelines and cloud deployments.
+🎓 Computer Science student at KL University (CGPA: 9.42/10)
 
-> 🧩 _A developer’s job doesn’t end at code — it ends when the system runs flawlessly in production._
+💻 Passionate about Backend Engineering, Distributed Systems, Cloud Infrastructure and DevOps
 
----
+🏆 5★ CodeChef Programmer
 
-## 🛣️ Career Roadmap
+⚡ LeetCode Knight (Top 5%)
 
-### 🧭 My Engineering Journey
+🧠 Solved 500+ DSA problems
 
-I'm actively shaping my career toward becoming a **Cloud-Native Full-Stack & DevOps Engineer**.
+🌱 Currently learning Kubernetes, AWS, System Design and Site Reliability Engineering
 
-### 📌 2026 Goals
-
-- [x] Master React, Node.js, Express & Spring Boot  
-- [x] Build and deploy full-stack applications  
-- [x] Learn CI/CD pipelines with GitHub Actions  
-- [x] Containerize apps using Docker  
-- [ ] Deploy microservices with Kubernetes  
-- [ ] Complete AWS Solution Architect learning path  
-- [ ] Implement Infrastructure as Code (Terraform)  
-- [ ] Build a production-grade CI/CD pipeline with monitoring
-
-### 🎯 Long-Term Vision
-
-Become a **Cloud-Native Engineer** skilled at:
-
-✔ Architecting distributed & scalable systems  
-✔ Automating end-to-end deployments  
-✔ Managing cloud workloads on AWS  
-✔ Following SRE & DevOps best practices  
-
-🚀 _Every commit brings me closer._
+📫 Reach me at: **[rohitsinghwork11@gmail.com](mailto:rohitsinghwork11@gmail.com)**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🖥 Frontend
+### Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
-### 🔧 Backend
+### Backend Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### 🗄 Databases
+### Databases
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### DevOps & Cloud
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,aws,git" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,idea" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 💼 Featured Projects
 
-### 🔹 RouteNavigator — Traffic Routing Engine  
-**Tech:** C++, Dijkstra’s, A* Algorithms  
-- Built a city-scale routing engine for optimal path computation  
-- Designed efficient graph data structures supporting dynamic traffic updates  
-- Reduced average route computation latency by **~40%**  
-- Handled real-time road closures and re-routing logic  
+### 💳 PayFlow — Fintech Wallet & Payment Platform
 
----
+Production-grade payment processing system built using Spring Boot, PostgreSQL, Redis and Kafka.
 
-### 🔹 FitLife Pro — Full-Stack Fitness Analytics Platform  
-**Tech:** Java, Spring Boot, MySQL, JPA, JWT  
-- Designed scalable backend services processing thousands of activity records  
-- Implemented **JWT-based authentication** and **role-based access control**  
-- Optimized SQL queries and indexing, improving dashboard performance by **~35%**  
-- Built analytics APIs for historical trends and personalized insights  
+✨ Highlights
 
----
+* Double-entry ledger architecture
+* Event-driven processing with Kafka
+* Transactional Outbox Pattern
+* Fraud detection engine
+* Redis rate limiting
+* Prometheus & Grafana monitoring
+* K6 load testing
 
-### 🔹 Waste-No-More — Real-Time Logistics Coordination System  
-**Tech:** MongoDB, WebSockets, Event-Driven Architecture  
-- Built a real-time backend system coordinating food donations  
-- Implemented **geospatial indexing** to match donors and volunteers by proximity  
-- Designed concurrent WebSocket workflows to prevent conflicting claims  
-- Reduced coordination response time by **~50%**  
-
-> 🛠 I build real, production-style software — not tutorial clones.
+🔗 https://github.com/25Rohit25/Payflow
 
 ---
 
-## 📊 GitHub Activity (Animated)
+### 🛍 Retail Lens — AI Retail Intelligence Platform
 
-### 🏆 Trophies
+AI-powered analytics platform transforming CCTV footage into operational insights.
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&no-frame=true)](https://github.com/25Rohit25)
+✨ Highlights
 
-### 📜 Profile Summary
+* YOLOv8 + OpenCV
+* FastAPI backend
+* PostgreSQL analytics engine
+* Real-time occupancy tracking
+* Queue monitoring
+* React dashboard
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25Rohit25&theme=tokyonight)
+🔗 https://github.com/25Rohit25/Retail_Lens
 
-### 🐍 Contribution Snake
+---
 
-![Snake animation](https://raw.githubusercontent.com/25Rohit25/25Rohit25/output/github-contribution-grid-snake.svg)
+### 🏋️ FitLife Pro — AI Fitness Platform
+
+Full-stack AI-powered fitness ecosystem.
+
+✨ Highlights
+
+* Spring Boot + React
+* Gemini AI integration
+* JWT Authentication
+* Kubernetes deployment
+* Dockerized services
+* Jenkins + GitHub Actions CI/CD
+
+🔗 https://github.com/25Rohit25/FitLife
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=25Rohit25&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=25Rohit25&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25Rohit25&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=25Rohit25&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/25Rohit25/25Rohit25/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🧮 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/klu2300032739/">
-    <img src="https://img.shields.io/badge/LeetCode-Rohit_Singh-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+
+🏆 CodeChef 5★
+
+⚡ LeetCode Knight
+
+📈 Top 5% Global Ranking
+
+✅ 500+ Problems Solved
+
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 Current Focus
 
-<p>
-  <a href="https://www.linkedin.com/in/rohit-singh-75428a311/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Singh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/25Rohit25">
-    <img src="https://img.shields.io/badge/GitHub-25Rohit25-black?style=for-the-badge&logo=github" />
-  </a>
+* Distributed Systems
+* Spring Boot Microservices
+* Kubernetes & Container Orchestration
+* AWS Cloud Architecture
+* CI/CD Automation
+* System Design
+* Observability & Monitoring
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-singh-75428a311/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/25Rohit25">
+<img src="https://img.shields.io/badge/GitHub-25Rohit25-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:rohitsinghwork11@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ <i>Engineering scalable systems, automating deployments, and shipping code that matters.</i> ✨
+<b>Building scalable systems, solving complex problems, and shipping software that matters.</b>
 </p>
