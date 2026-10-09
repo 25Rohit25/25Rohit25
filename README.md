@@ -1,211 +1,221 @@
-# <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
+
+<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 
 <h3 align="center">
-Backend Engineer • Distributed Systems Enthusiast • Cloud & DevOps Learner
+  Software Engineer | Backend & Distributed Systems | Applied AI
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=25Rohit25&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/25Rohit25">
+    <img src="https://komarev.com/ghpvc/?username=25Rohit25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/rohit-singh-75428a311/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rohitsinghwork2511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://github.com/25Rohit25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=700&lines=Backend+Engineer;Distributed+Systems+Enthusiast;5★+CodeChef+Programmer;LeetCode+Knight+%7C+Top+5%25;Building+Production-Grade+Systems" />
+    <img src="https://img.shields.io/badge/GitHub-25Rohit25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Computer Science student at KL University (CGPA: 9.42/10)
+I'm a **Computer Science undergraduate at KL University (2027)** with a **9.40/10 CGPA**, focused on building reliable backend systems, distributed applications, and AI-powered developer tools.
 
-💻 Passionate about Backend Engineering, Distributed Systems, Cloud Infrastructure and DevOps
+Currently working as a **Software Engineering Contractor at Handshake AI**, where I build reference implementations, reproducible Linux/Docker environments, and automated verification systems for complex software-engineering tasks.
 
-🏆 5★ CodeChef Programmer
+My interests lie at the intersection of:
 
-⚡ LeetCode Knight (Top 5%)
+- **Backend Engineering:** APIs, concurrency, database transactions, caching, and event-driven architectures.
+- **Distributed Systems:** Consensus, fault tolerance, replication, consistency, and failure recovery.
+- **Applied AI:** LLM agents, RAG, tool calling, developer automation, and reliable AI workflows.
+- **Infrastructure:** Linux, Docker, Kubernetes, CI/CD, testing, and observability.
 
-🧠 Solved 900+ DSA problems
-
-🌱 Currently learning Kubernetes, AWS, System Design and Site Reliability Engineering
-
-📫 Reach me at: **[rohitsinghwork11@gmail.com](mailto:rohitsinghwork11@gmail.com)**
+I enjoy understanding why systems fail, designing reliable solutions, and building software that works beyond the happy path.
 
 ---
 
-## 🛠 Tech Stack
+## Professional Experience
 
-### Languages
+### Software Engineering Contractor | Handshake AI
+**July 2026 – Present**
+
+- Build reference implementations and automation utilities for complex software-engineering evaluation tasks.
+- Develop reproducible **Linux/Docker execution environments** and automated verification systems.
+- Design tests covering **functional correctness, edge cases, regression behavior, failure scenarios, and reproducibility**.
+- Investigate application, runtime, configuration, and test-harness failures through systematic debugging and root-cause analysis.
+
+---
+
+## Tech Stack
+
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js" alt="Languages"/>
 </p>
 
-### Backend Development
+**Backend & Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,nestjs,react,nextjs" alt="Frameworks"/>
 </p>
 
-### Databases
+**Databases & Messaging**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" alt="Databases"/>
 </p>
 
-### DevOps & Cloud
+**Cloud, DevOps & Infrastructure**
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,aws,git" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,githubactions,git" alt="DevOps"/>
 </p>
 
-### Tools & Platforms
+**AI Engineering**
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,idea" />
-</p>
+`LLM APIs` · `LangChain` · `RAG` · `Vector Search` · `pgvector` · `AI Agents` · `Tool Calling` · `MCP`
 
----
+**Engineering Fundamentals**
 
-## 💼 Featured Projects
-
-### 💳 PayFlow — Fintech Wallet & Payment Platform
-
-Production-grade payment processing system built using Spring Boot, PostgreSQL, Redis and Kafka.
-
-✨ Highlights
-
-* Double-entry ledger architecture
-* Event-driven processing with Kafka
-* Transactional Outbox Pattern
-* Fraud detection engine
-* Redis rate limiting
-* Prometheus & Grafana monitoring
-* K6 load testing
-
-🔗 https://github.com/25Rohit25/Payflow
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Distributed Systems` · `System Design`
 
 ---
 
-### 🛍 Retail Lens — AI Retail Intelligence Platform
+## Featured Engineering Projects
 
-AI-powered analytics platform transforming CCTV footage into operational insights.
+### PayFlow — Distributed Payment Processing Platform
 
-✨ Highlights
+**Java | Spring Boot | PostgreSQL | Redis | Kafka | Docker**
 
-* YOLOv8 + OpenCV
-* FastAPI backend
-* PostgreSQL analytics engine
-* Real-time occupancy tracking
-* Queue monitoring
-* React dashboard
+A transactional wallet and payment-processing backend designed around correctness, concurrency, and reliable event delivery.
 
-🔗 https://github.com/25Rohit25/Retail_Lens
+- Implemented a **double-entry ledger** for consistent financial transactions.
+- Used **ACID transactions, idempotency keys, pessimistic row-level locking, and deterministic lock ordering** to handle concurrent transfers.
+- Integrated Kafka with the **Transactional Outbox Pattern** for reliable asynchronous processing.
+- Added Redis rate limiting, JWT authentication, and Prometheus/Grafana observability.
+- Evaluated transaction performance under concurrent workloads using k6.
 
----
-
-### 🏋️ FitLife Pro — AI Fitness Platform
-
-Full-stack AI-powered fitness ecosystem.
-
-✨ Highlights
-
-* Spring Boot + React
-* Gemini AI integration
-* JWT Authentication
-* Kubernetes deployment
-* Dockerized services
-* Jenkins + GitHub Actions CI/CD
-
-🔗 https://github.com/25Rohit25/FitLife
+**[View Repository →](https://github.com/25Rohit25/Payflow)**
 
 ---
 
-## 📊 GitHub Analytics
+### ForgeKV — Fault-Tolerant Distributed Key-Value Store
+
+**Java | Raft | gRPC | RocksDB | Docker | Prometheus**
+
+A distributed key-value store exploring replication, fault tolerance, and persistent state management.
+
+- Implemented **Raft leader election, replicated logs, and quorum-based commits**.
+- Built persistent storage and recovery workflows using RocksDB.
+- Developed a durable job queue with leases, acknowledgements, retries, and dead-letter handling.
+- Tested leader crashes, node restarts, follower recovery, and worker failure scenarios.
+
+**[View Repository →](https://github.com/25Rohit25/Forge-KV)**
+
+---
+
+### Slotly — Full-Stack Booking & Scheduling Platform
+
+**TypeScript | Next.js | React | NestJS | PostgreSQL | Prisma | Redis**
+
+A booking platform designed to maintain consistency during concurrent reservation requests.
+
+- Built REST APIs for authentication, availability, scheduling, and booking workflows.
+- Prevented conflicting bookings using **PostgreSQL transactions, row-level locking, database constraints, and idempotency keys**.
+- Integrated Redis caching, JWT authentication, and API validation.
+- Added Swagger/OpenAPI documentation and k6 concurrency testing.
+- Containerized application services using Docker.
+
+**[View Repository →](https://github.com/25Rohit25/Slotly)**
+
+---
+
+### AgentForge — Agentic AI Developer Workspace
+
+**Python | FastAPI | React | TypeScript | LangChain | PostgreSQL | pgvector | Redis**
+
+An AI-powered developer workspace for executing and inspecting multi-step engineering workflows.
+
+- Built AI-agent workflows using **structured tool calling** for log analysis, service inspection, database queries, and technical knowledge retrieval.
+- Developed a **RAG pipeline** using embeddings and PostgreSQL/pgvector.
+- Added workflow persistence, execution tracing, streaming responses, and Redis caching.
+- Designed backend APIs and containerized services for observable AI-assisted workflows.
+
+**[View Repository →](https://github.com/25Rohit25/Agent-Forge)**
+
+---
+
+### Retail Lens — AI Retail Intelligence Platform
+
+**Python | FastAPI | YOLOv8 | PostgreSQL | React | Docker**
+
+A computer-vision analytics platform that converts retail activity into structured operational insights.
+
+- Processed visual detections into customer entry, exit, dwell, and queue events.
+- Developed backend APIs and PostgreSQL data models for operational analytics.
+- Built a React dashboard for occupancy and customer-flow visualization.
+
+**[View Repository →](https://github.com/25Rohit25/Retail_Lens)**
+
+---
+
+## Competitive Programming & Achievements
+
+| Platform / Achievement | Result |
+| :--- | :--- |
+| LeetCode | **Knight — Peak Rating 2008, Global Top 2.53%** |
+| CodeChef | **5-Star — Peak Rating 2038** |
+| Google Big Code Challenge | **National Top 1,500 — Top 1% among 150,000+ qualifiers** |
+| DSA Practice | **1,400+ problems solved** |
+| Academics | **9.40/10.0 CGPA — KL University** |
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=25Rohit25&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=25Rohit25&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25Rohit25&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=25Rohit25&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=25Rohit25&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    alt="Rohit's GitHub statistics"
+    height="165"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## Currently Exploring
+
+- Distributed consensus and fault-tolerant systems
+- Database internals, concurrency, and transaction processing
+- Scalable microservices and asynchronous architectures
+- AI agents, evaluation, retrieval, and tool orchestration
+- Kubernetes, cloud infrastructure, and observability
+- Performance engineering, debugging, and system design
+
+---
+
+## Let's Connect
+
+I'm interested in **Software Development Engineering, Backend Engineering, Distributed Systems, and Applied AI** opportunities.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=25Rohit25&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <a href="https://www.linkedin.com/in/rohit-singh-75428a311/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohitsinghwork2511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/25Rohit25/25Rohit25/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🧮 Competitive Programming
-
-<p align="center">
-
-🏆 CodeChef 5★
-
-⚡ LeetCode Knight
-
-📈 Top 5% Global Ranking
-
-✅ 500+ Problems Solved
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-* Distributed Systems
-* Spring Boot Microservices
-* Kubernetes & Container Orchestration
-* AWS Cloud Architecture
-* CI/CD Automation
-* System Design
-* Observability & Monitoring
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/rohit-singh-75428a311/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/25Rohit25">
-<img src="https://img.shields.io/badge/GitHub-25Rohit25-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:rohitsinghwork11@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
-
----
-
-<p align="center">
-<b>Building scalable systems, solving complex problems, and shipping software that matters.</b>
+  <b>Building reliable systems. Solving hard problems. Learning continuously.</b>
 </p>
